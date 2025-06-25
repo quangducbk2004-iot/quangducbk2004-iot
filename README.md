@@ -1,6 +1,4 @@
 
-# username-account-github
-
 # 👨‍💻 Dao Quang Duc | Embedded Systems Enthusiast
 
 ## 👋 Hello! I'm Dao Quang Duc
