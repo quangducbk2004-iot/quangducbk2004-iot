@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**quangducbk2004-iot/quangducbk2004-iot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# username-account-github
 
-Here are some ideas to get you started:
+# 👨‍💻 Dao Quang Duc | Embedded Systems Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hello! I'm Dao Quang Duc
+
+🎓 I'm a student at **Hanoi University of Science and Technology (HUST)**, majoring in **Electronics and Telecommunications Engineering**.
+
+🔍 I'm passionate about **Embedded Systems** and currently exploring:
+- Arduino, ESP32, MQTT, and IoT development
+- Microcontrollers and real-time communication
+- Prototyping and system integration
+
+🛠️ **Tech Stack & Tools**:
+- Programming: `C/C++`, `Python`
+- Platforms: `PlatformIO`, `Arduino IDE`
+- Version Control: `Git`
+- Circuit Design: `Altium Designer`, `Proteus`
+
+⚽ **Interests**:
+- Playing football & staying active through sports
+- Reading books on technology, productivity, and personal development
+
+---
+
+## 📌 Featured Projects
+(Coming soon — stay tuned! 🚀)
+
+---
+## 📫 Contact Me
+- Email: [daoquangduc113@gmai.com]
+---
+
+_Thanks for visiting my GitHub profile! I'm always eager to connect and collaborate on exciting tech projects._
